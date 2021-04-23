@@ -1,12 +1,12 @@
 enable  : true
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
+  - image       : images/team/IMG_2435.jpg
+    name        : KAITLYN GOSLINE
     designation : Creative Director
     medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    linkedIn    : https://www.linkedin.com/in/kaitlyn-g-434256116/
+    instagram   : https://www.instagram.com/kfgoz/
 
   - image       : images/team/team-member-two.jpg
     name        : MONTINO RIAU
